@@ -23,8 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='![Kapture 2024-02-03 at 23 19 26](https://github.com/dylandgz/web102_prework/assets/70587488/34fe6abd-43a6-4e71-ae8b-0d00a1376272)
-' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![Kapture 2024-02-03 at 23 19 26](https://github.com/dylandgz/web102_prework/assets/70587488/b55dd516-3439-470a-b64c-a24767a4729b)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
